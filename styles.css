@@ -227,4 +227,9 @@ body {
 }
 #yesContainer{
     text-align: center;
+    display: none;
+}
+#noContainer{
+    display: none;
+    text-align: center;
 }
